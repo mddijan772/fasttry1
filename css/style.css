@@ -1,0 +1,33 @@
+body{background: #65655d;}
+
+div{
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 128px;
+	margin-bottom: 128px;
+	width: 1133px;
+	padding: 50px;
+	background: #2d2b2f;
+	box-shadow: 9px 10px 34px #09090c;
+	}
+
+h1{
+	color: #ffd230;
+	font-size: 52px;
+	text-transform: uppercase;
+}
+
+span{
+color: #e8ca93;
+}
+
+b{
+font-size: 100px;
+color: red;
+}
+
+p{
+color: #ecc3c3;
+font-size: 22px;
+}
